@@ -1,22 +1,27 @@
-# Hermes Agent
-
 <p align="center">
-  <img src="./hermes-agent-logo.png" alt="Hermes Agent logo" width="128" />
+  <a href="https://hermes-agent.us">
+    <img src="hermes-agent-logo.png" alt="Hermes Agent logo" width="112" />
+  </a>
 </p>
 
-Hermes Agent helps users evaluate and operate a persistent, self-hosted AI agent runtime with practical deployment guidance, managed hosting, Open WebUI compatibility, and OpenAI-compatible API context.
 
-## Public Resources
+# Hermes Agent
+
+Hermes Agent helps technical users evaluate persistent AI agent runtime options through deployment guidance, managed hosting, Open WebUI context, OpenAI-compatible API reuse, and comparison material.
+
+## Official Resources
 
 - Website: [hermes-agent.us](https://hermes-agent.us)
-- Feedback and roadmap: [hermes-agent-us/hermes-agent](https://github.com/hermes-agent-us/hermes-agent)
-- Upstream runtime: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+- Public repository: [hermes-agent-us/hermes-agent](https://github.com/hermes-agent-us/hermes-agent)
+- Feedback and issues: [github.com/hermes-agent-us/hermes-agent/issues](https://github.com/hermes-agent-us/hermes-agent/issues)
+- Roadmap: [ROADMAP.md](https://github.com/hermes-agent-us/hermes-agent/blob/main/ROADMAP.md)
+- Support: support@hermes-agent.us
 
-## What We Maintain Here
+## Product Areas
 
-- Public website feedback
-- Deployment and managed hosting discussion
-- Documentation corrections
-- Roadmap notes for the hermes-agent.us product surface
+- Review local install, Docker, VPS, cloud, and managed hosting guidance.
+- Understand managed cloud hosting and hosted WebUI launch paths.
+- Compare Hermes Agent with OpenClaw using public comparison pages.
+- Use OpenAI-compatible API context for Open WebUI and other clients.
 
-This organization does not mirror the upstream Hermes Agent runtime source. Runtime implementation issues should go to the upstream project.
+This organization profile points to the official public GitHub resources for Hermes Agent. Production source code and private operational configuration are not published here.
