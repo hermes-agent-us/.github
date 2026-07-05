@@ -11,9 +11,9 @@ Hermes Agent helps technical users evaluate persistent AI agent runtime options 
 
 ## Official Resources
 
-- Website: [hermes-agent.us](https://hermes-agent.us)
+- Website: [Hermes Agent persistent AI agent runtime](https://hermes-agent.us)
 - Public repository: [hermes-agent-us/hermes-agent](https://github.com/hermes-agent-us/hermes-agent)
-- Feedback and issues: [github.com/hermes-agent-us/hermes-agent/issues](https://github.com/hermes-agent-us/hermes-agent/issues)
+- Feedback and issues: [Hermes Agent public feedback on GitHub](https://github.com/hermes-agent-us/hermes-agent/issues)
 - Roadmap: [ROADMAP.md](https://github.com/hermes-agent-us/hermes-agent/blob/main/ROADMAP.md)
 - Support: support@hermes-agent.us
 
